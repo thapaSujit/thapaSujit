@@ -21,7 +21,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas with tech enthusiasts. 
 
-* 💻 Currently working on using fuzzy hashing algorithms for duplicate/similar column identification.
+* 💻 Currently working on using fuzzy hashing algorithms for duplicate/similar column identification and a blog website using Django.
 
 
 
