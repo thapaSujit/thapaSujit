@@ -13,8 +13,6 @@
 <a href="mailto:megasuziet@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="WIP">
-    <img src="https://img.shields.io/badge/PyPi-prajolshrestha-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>    
 </br>
 </p>
