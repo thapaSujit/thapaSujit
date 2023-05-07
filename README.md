@@ -13,6 +13,9 @@
 <a href="mailto:megasuziet@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<a href="https://sujitthapa.pythonanywhere.com/">
+    <img src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg.">
+</a>
 </a>    
 </br>
 </p>
