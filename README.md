@@ -20,11 +20,11 @@
 </br>
 </p>
 
-* 📖 Pursuing Master's in International Information System @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.win.rw.fau.de/master/). 
+* 📖 Master's in International Information System @ [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.win.rw.fau.de/master/). 
 
 * 💡 Open to collaborating on projects and innovative ideas with tech enthusiasts. 
 
-* 💻 Currently working on using fuzzy hashing algorithms for duplicate/similar column identification and a blog website using Django.
+* 💻 Currently working on using fuzzy hashing algorithms for duplicate/similar column identification and a blog website.
 
 
 
