@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/thapaSujit">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=Sujit+Thapa;Data+Enthusiast;Data+Engineering+%7C+Data+Science+%7C+LLM+%7C+GenAI+Application" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=550&height=120&lines=Sujit+Thapa;Data+Enthusiast;Data+Engineering+%7C+Data+Science+%7C+DevOps+%7C+LLM+%7C+GenAI+Application" alt="Typing SVG" />
 </a>
 
 <br>
